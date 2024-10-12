@@ -65,7 +65,14 @@ The application will open a GUI window. Grant permission to access your webcam w
 - Spotipy for Spotify API integration
 - Pandas for data manipulation
 - Tkinter for the graphical user interface
-- Flask (listed in requirements, potential for web deployment)
+
+ ## Research Basis
+This project is inspired by and builds upon the research presented in the paper: \
+“A Novel Emotion-based Music Recommendation System using CNN”, 2023 7th International Conference on Intelligent Computing and Control Systems (ICICCS), Madurai, India, 2023
+
+https://www.researchgate.net/publication/371430777_A_Novel_Emotion_based_Music_Recommendation_System_using_CNN
+
+This paper proposes a novel approach to emotion-based music recommendation using Convolutional Neural Networks (CNN), which aligns closely with the methodology used in our project. We encourage interested users and contributors to read this paper for a deeper understanding of the theoretical foundations of our system.
 
 
 ## Contributing
