@@ -1,5 +1,7 @@
 # Emotion-based Music Recommendation System
 
+## Overview
+
 This project is an innovative application that combines facial emotion recognition with music recommendations. It captures the user's facial expressions through a webcam, determines their emotional state, and suggests music based on the detected emotion.
 
 ## Features
